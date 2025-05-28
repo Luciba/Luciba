@@ -21,8 +21,8 @@ Olá! Meu nome é Luciano, tenho 25 anos e sou apaixonado por tecnologia e dados
 <!-- <img align="left" alt="Excel" title="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Excel-Logo.svg" />
 <img align="left" alt="AutoCAD" title="AutoCAD" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Autodesk_AutoCAD_2018_Logo.png" /> -->
 <img align="left" alt="Power BI" title="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /> 
-<img align="left" alt="Power BI" title="Power BI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> 
+<img align="left" alt="Matlab" title="Matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /> 
+<img align="left" alt="Godot" title="Godot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> 
 
 
 <br/>
