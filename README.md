@@ -1,5 +1,23 @@
 # 🐱‍💻 Luciano Soares Rodrigues Junior
 
+ <!--
+<p align="center">
+  <!--   <img src="https://github.com/Luciba/Investimentos/blob/main/me.png" alt="Cover Image" width="200"> -->
+ <!--  <img src="https://github.com/Luciba/Investimentos/blob/main/me-ezgif.com-video-to-gif-converter%20(2).gif" alt="Me" />
+<!--   <img src="https://github.com/Luciba/Investimentos/blob/main/me-ezgif.com-video-to-gif-converter%20(1).gif" alt="Me" /> -->
+<!--  </p> -->
+
+<p align="center">
+<!--   <img src="https://github.com/Luciba/Investimentos/blob/main/me_2.gif" alt="Me" /> -->
+  <img src="https://github.com/Luciba/Investimentos/blob/main/me_2_600.gif" alt="Me" />
+</p>
+
+<!-- ![Me](https://github.com/Luciba/Investimentos/blob/main/me-ezgif.com-video-to-gif-converter.gif) -->
+
+
+
+<!--![Me](https://github.com/Luciba/Investimentos/blob/main/me-ezgif.com-video-to-gif-converter%20(2).gif)-->
+
 **`Analista de Dados e Desenvolvedor`**
 
 Olá! Meu nome é Luciano, tenho 25 anos e sou apaixonado por tecnologia e dados. Atualmente, sou estagiário em **Cluster Analytics no Santander** e estou cursando **Engenharia de Informação na UFABC**. Meu foco está em análise de dados, programação e automação de processos, buscando sempre novas formas de aprimorar minha expertise em tecnologia e ciência de dados.
